@@ -1,4 +1,4 @@
-# QCPExamplesCollection
-QCustomPlot examples on one single app, with additionnal real time examples (waterfall...)
+# Qcustomplot
+最基础的qcustom示例
 
 ![](qcpex.gif)
